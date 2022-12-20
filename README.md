@@ -1,3 +1,5 @@
+theme: minimal
+
 ## *Laurens Eiroa Sattler Data Science Portfolio*
 
 
