@@ -1,4 +1,3 @@
-## *Laurens Eiroa Data Science Portfolio*
 
 This webpage contains several projects of various different fields.
 
