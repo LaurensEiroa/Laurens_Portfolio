@@ -1,5 +1,7 @@
-# Laurens_Portfolio
-Laurens Eiroa Data Science Portfolio
+# Laurens Eiroa Sattler
+## *Data Science Portfolio*
+
+
 
 
 # [Project 1: Narma10 Identification System](https://github.com/LaurensEiroa/Narma10-System-Identification/blob/master/EchoStateNetwork.ipynb)
