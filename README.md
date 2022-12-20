@@ -1,5 +1,6 @@
 # *Laurens Eiroa Sattler Data Science Portfolio*
 
+This webpage contains several projects of various different fields.
 
 # [Project 1: Narma10 Identification System](https://github.com/LaurensEiroa/Narma10-System-Identification/blob/master/EchoStateNetwork.ipynb)
 -A system Identification task using a Recurrent Neural Network is performed making use of the Reservoir Computing paradigm.
