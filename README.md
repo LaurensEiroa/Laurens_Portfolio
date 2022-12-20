@@ -1,3 +1,5 @@
+# Build Settings
+markdown: kramdown
 theme: minima
 
 # Laurens_Portfolio
