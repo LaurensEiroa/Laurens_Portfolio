@@ -1,7 +1,3 @@
-# Build settings
-markdown: kramdown
-remote_them: benbalter/retlab
-
 ## *Laurens Eiroa Sattler Data Science Portfolio*
 
 
