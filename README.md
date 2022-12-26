@@ -19,6 +19,6 @@ This webpage has been build by Laurens Eiroa Sattler and contains a Data Science
 ![image](https://user-images.githubusercontent.com/61729785/208782440-797cbac6-7fbc-4e8b-a5f7-ba2d35964eca.png)
 
 ## [Project 4: Stars Fundamental Atmospheric parameter Determination]()
-- This work belongs to an academic research, that is being currently done. The objective of this academical research is to show that Deep-Learning techniques can be used for the determination of fundamental atmospheric star parameters by means of the observed stellar spectrum. Since the available data that can be find in the literature contains high degrees of uncertaity. We prove how training the network with Kuruz sintetic spectra, can produce state-of-the-art results
+- Stars together with gas and dust particles constitute the basic ingredients of the visible universe. Therefore, the determination of the fundamental, physical stellar parameters is a basic pilar in our knowledge of the universe. This academic work, carried out in collaboration with  Dr. Benjamin Montesinos of the Center of Astrobiology, presents a deep learning approach to predict the stellar parameters temperature, gravity, metallicity, and rotational and radial velocities.  
 
 ![image](https://user-images.githubusercontent.com/61729785/208782440-797cbac6-7fbc-4e8b-a5f7-ba2d35964eca.png)
